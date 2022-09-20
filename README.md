@@ -1,7 +1,7 @@
 # CozinhaThread
 Exercício 2 da aula 4 de Threads em Java de SO1 
 
-Mais detaçhes: ++
+Mais detalhes: ++
 Existem diversos jogos de simulação. Um deles simula a participação de cozinheiros em
 uma cozinha profissional realizando pratos. Numa das fases, o cozinheiro precisa
 realizar o cozimento de 5 pratos simultâneos, onde cada cozimento não depende da
